@@ -1,13 +1,10 @@
 :tocdepth: 1
 
+.. warning::
+
+    This document has been superseded by the pybind11 information in the `LSST DM Developer Guide <https://developer.lsst.io>`_.
+
 This document describes coding guidelines for using pybind11 within LSST.
-
-  .. warning::
-     Use of pybind11 within LSST code is not yet allowed (use Swig instead)!
-     This document only serves to collect guidelines as part of DM-6168
-
-  .. note::
-     This document uses nomenclature defined `here <https://developer.lsst.io/coding/intro.html#stringency-levels>`_.
 
 1. Modules and source files
 ===========================
